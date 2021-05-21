@@ -4,3 +4,8 @@ d1 $ s "superchoon" # gain 1.2 # size 0.7 # speed "{1, .0.5 0.4]" # room 0.7 # s
 d1 $ n "112" # s "anongrian" # speed "0.7" # sounde" sound "mind" # grun 0.3 every 2 (fast 4) $ s "1
 
 
+d1 $ noteerevabkeckiackerkick can" "[[nd ck:2 ~] bd ~" # dinote "[10, 0.15]" # loff 0.25 # slow 2 $ sound
+
+d1 $ s "superang" # speed "0.3" # gain 0.8 # gain 1 slow 3 $ sound "chubrun*2*2" # legato 1 # legato 1 #
+
+d1 $ speery sinersons" # gain 0.9 # lpf 2 0.15 # gain 0.9 sometimes (0.125 <~) $ sometimes (# speed "<0.
