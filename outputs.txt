@@ -1,0 +1,6 @@
+d1 $ s "superchoon" # gain 1.2 # size 0.7 # speed "{1, .0.5 0.4]" # room 0.7 # size 0.2 strice 4 (sound
+
+
+d1 $ n "112" # s "anongrian" # speed "0.7" # sounde" sound "mind" # grun 0.3 every 2 (fast 4) $ s "1
+
+
